@@ -1,5 +1,5 @@
 
-#numerica datatype
+#numerical datatype
 # a = 20
 # b = 12.55
 # c = 2 + 4j
